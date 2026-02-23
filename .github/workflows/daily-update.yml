@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Step for kalaniyagaurav@gmail.com
+      - name: Step for 24f1000124@ds.study.iitm.ac.in
         run: |
           date >> pulse.txt
           git config --global user.name "Gaurav Kumar"
